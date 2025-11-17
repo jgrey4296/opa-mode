@@ -1,7 +1,9 @@
 ;; -*- mode: eask; lexical-binding: t -*-
 
+(defconst version "0.1.0")
+
 (package "opa-mode"
-         "0.1.0"
+         version
          "A mode for opa files")
 
 (website-url "https://github.com/jgrey4296/opa-mode")

@@ -1,4 +1,4 @@
-;; blood--test.el -*- mode: emacs-lisp; lexical-binding: t; -*-
+;; basic-tests.el -*- mode: emacs-lisp; lexical-binding: t; -*-
 ;;
 ;;
 ;;
