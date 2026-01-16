@@ -7,11 +7,10 @@
          "A mode for opa files")
 
 (website-url "https://github.com/jgrey4296/opa-mode")
-(keywords )
+(keywords "rego")
 
-(package-file "src/flycheck-toml.el")
-
-(script "test" "echo \"Error: no test specified\" && exit 1")
+(package-descriptor "opa-mode-pkg.el")
+(files "./opa-mode.el" "./flycheck-opa.el")
 
 (source "gnu")
 (source "melpa")
